@@ -2,7 +2,7 @@
 Initializing project - defining and adding issues  
 
 # Contributors  
-sindat
+sindat  
 hfallenone
 
 
